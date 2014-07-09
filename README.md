@@ -1,4 +1,5 @@
-INTROSE11415S23B
+INTROSE S23B
+T1 AY14-15
 ================
 
-For the Defects Report exercise of S23B in INTROSE T1 AY1415
+For the Defects Report exercise of S23B in INTROSE T1 AY14-15
